@@ -1,0 +1,6 @@
+{
+  "name": "Arena Português: Battle Royale",
+  "description": "Jogo educativo tático de Língua Portuguesa no formato Battle Royale com gamificação profunda, customização de operadores, itens táticos de combate e recursos completos de acessibilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
